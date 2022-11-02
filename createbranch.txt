@@ -10,3 +10,7 @@ git checkout hello-world-images
 git status
 # view the status of branch
 
+git checkout master
+# move to master branch
+
+
